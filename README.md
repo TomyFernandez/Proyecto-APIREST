@@ -1,8 +1,8 @@
 # JPAProyecto
 
-![GitHub](https://img.shields.io/github/license/TomyFernandez/JPAProyecto)
-![GitHub last commit](https://img.shields.io/github/last-commit/TomyFernandez/JPAProyecto)
-![GitHub issues](https://img.shields.io/github/issues/TomyFernandez/JPAProyecto)
+![GitHub](https://img.shields.io/github/license/TomyFernandez/Proyecto-APIREST)
+![GitHub last commit](https://img.shields.io/github/last-commit/TomyFernandez/Proyecto-APIREST)
+![GitHub issues](https://img.shields.io/github/issues/TomyFernandez/Proyecto-APIREST)
 
 ## Descripción
 
@@ -29,7 +29,7 @@ El objetivo principal de este proyecto es aprender a utilizar las herramientas m
 
 1. **Clonar el Repositorio**:
    ```sh
-   git clone https://github.com/TomyFernandez/JPAProyecto.git
+   git clone https://github.com/TomyFernandez/Proyecto-APIREST.git
 2. **Compilar y ejecutar el Proyecto**:
 
 3.**Verificar la Base de Datos**:
